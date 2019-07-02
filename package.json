@@ -4,7 +4,7 @@
   "description": "A personal card for Victor Santacreu",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "fromcouch": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -40,7 +40,6 @@
   "bugs": {
     "url": "https://github.com/fromcouch/card/issues"
   },
-  "dependencies": {},
   "publishConfig": {
     "registry": "https://npm.registry.github.com/"
   }
