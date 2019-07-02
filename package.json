@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fromcouch/business-card.git"
+    "url": "git+https://github.com/fromcouch/card.git"
   },
   "homepage": "https://www.ebavs.net/",
   "scripts": {
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/fromcouch/business-card/issues"
+    "url": "https://github.com/fromcouch/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
